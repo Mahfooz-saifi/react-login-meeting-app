@@ -1,0 +1,21 @@
+.nav-item {
+    display: flex;
+    margin: 10px 5px 20px;
+    padding: 3px 3px 1px;
+}
+
+.nav-item-active {
+    display: flex;
+    margin: 10px 5px 20px;
+    padding: 3px 3px 1px;
+    color: white;
+    background-color: yellow;
+    border-radius: 5px;
+}
+
+.nav-item:hover{
+    color: white;
+    background-color: yellow;
+    border-radius: 5px;
+    cursor: pointer;
+}
